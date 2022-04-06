@@ -1,9 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>"},
-    {"id":1,"file":"
-auth-user-pass
-client
+    {"id":0,"file":"client
 dev tun
 proto tcp
 remote 128.199.113.223 1194
@@ -45,5 +42,6 @@ xLNas+Bthy0Bn32VGL3kjz7Y991YdFSpnQVQlxlbTVVNjjytu/+8SS/6f7fsDbKW
 PL1sMbU/IU59L2nVuOQXd3IixIX7skglyNybNmdUr4LwkwaawzVR0YnigkiyO3ik
 cUsOPSPzzkjuCBqWh3Q0dt49k4PtkA==
 -----END CERTIFICATE-----
-</ca>"}]
+</ca>"},
+    {"id":1,"file":""}]
 }
