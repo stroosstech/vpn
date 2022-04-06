@@ -1,9 +1,8 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"
-     dev tun
+    {"id":0,"file":"dev tun
 proto tcp
-remote 31.211.114.62 1687
+remote 219.100.37.151 443
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -50,7 +49,6 @@ jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
 
 </ca>
-
 
 <cert>
 -----BEGIN CERTIFICATE-----
