@@ -3,8 +3,8 @@
     {"id":0,"file":"auth-user-pass
 client
 dev tun
-proto udp
-remote 128.199.113.223 25000
+proto tcp
+remote 128.199.113.223 1194
 persist-key
 persist-tun
 pull
@@ -43,8 +43,7 @@ xLNas+Bthy0Bn32VGL3kjz7Y991YdFSpnQVQlxlbTVVNjjytu/+8SS/6f7fsDbKW
 PL1sMbU/IU59L2nVuOQXd3IixIX7skglyNybNmdUr4LwkwaawzVR0YnigkiyO3ik
 cUsOPSPzzkjuCBqWh3Q0dt49k4PtkA==
 -----END CERTIFICATE-----
-</ca>
-"},
+</ca>"},
      
     ]
 }
