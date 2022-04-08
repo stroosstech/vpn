@@ -2,7 +2,7 @@
   "ovpn_file":[
     {"id":0,"file":"dev tun
 proto udp
-remote 198.13.36.179 1194
+remote 49.228.106.137 1195
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -49,6 +49,7 @@ jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
 
 </ca>
+
 
 <cert>
 -----BEGIN CERTIFICATE-----
@@ -100,9 +101,7 @@ wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 
-</key>
-
-"},
+</key>"},
      
     ]
 }
